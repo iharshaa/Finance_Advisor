@@ -1,0 +1,6 @@
+# Core dependencies for Hindi Finance Advisor with Qwen 2.5-7B
+streamlit>=1.31.0
+langchain>=0.1.0
+langchain-huggingface>=0.1.0
+huggingface_hub>=0.24.0
+python-dotenv>=1.0.0
