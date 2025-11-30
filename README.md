@@ -150,14 +150,6 @@ response = llm.invoke([HumanMessage(content="मुझे निवेश की
 - ✅ Optimized for instruction-following
 - ✅ No rate limiting on API usage
 
-**LangChain Framework**:
-```python
-   from llm import get_anthropic_llm
-   llm = get_anthropic_llm()
-   # Requires: pip install langchain-anthropic
-   # Add ANTHROPIC_API_KEY to .env
-   ```
-
 ## 📝 Code Examples
 
 ### Test Individual Modules
